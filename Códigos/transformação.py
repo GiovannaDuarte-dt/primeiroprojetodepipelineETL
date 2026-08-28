@@ -29,3 +29,6 @@ df["date"] = pd.to_datetime(df["date"], errors = "coerce")
 print(f"nova quantidade de linhas e colunas respectivamente:{df.shape}")
 
 print("\n", df)
+
+import os 
+os.makedirs("Dados/Dados_tratados(REFINED)", exist_ok=True)

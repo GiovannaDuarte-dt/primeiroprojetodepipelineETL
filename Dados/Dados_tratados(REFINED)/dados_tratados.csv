@@ -1,0 +1,9 @@
+sale_id,date,dealership,brand,model,color,price,city
+1,2025-01-01,Autocar,Toyota,Corolla,Prata,120000.0,São Paulo
+2,2025-01-01,Autocar,Toyota,Corolla,Prata,120000.0,São Paulo
+3,2025-01-02,Drivemax,Honda,Civic,Preto,130000.0,Campinas
+5,2025-01-03,Fastcars,Volkswagen,T-Cross,Branco,145000.0,Curitiba
+7,2025-01-04,Prime Motors,Jeep,Compass,Cinza,175000.0,Belo Horizonte
+8,2025-01-05,Autocar,Toyota,Corolla,Prata,120000.0,Sao Paulo
+9,2025-06-01,Drivemax,Honda,Civic,Preto,130000.0,Campinas
+10,2025-01-07,Fastcars,Volkswagen,T-Cross,Branco,145000.0,Curitiba
